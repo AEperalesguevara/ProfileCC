@@ -1,0 +1,9 @@
+.profile-stats {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+
+.profile-stats div {
+  text-align: center;
+}

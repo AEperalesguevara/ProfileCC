@@ -1,0 +1,11 @@
+.profile-info {
+  margin-top: 60px; /* Adjust to position under the profile image */
+}
+
+.profile-info h2 {
+  margin: 10px 0 5px 0;
+}
+
+.profile-info p {
+  color: gray;
+}

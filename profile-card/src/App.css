@@ -1,0 +1,28 @@
+.App {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: #19a1ad;
+}
+
+.background-img-top-left {
+  position: absolute;
+  top: 20px;
+  left: -200px;
+  width: 800px;
+  height: 800px;
+  background-image: url('/img/bg-pattern-top.svg');
+  background-size: cover;
+}
+
+.background-img-bottom-right {
+  position: absolute;
+  bottom: 20px;
+  right: 1px;
+  width: 700px;
+  height: 700px;
+  background-image: url('/img/bg-pattern-bottom.svg');
+}
